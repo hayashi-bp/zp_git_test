@@ -1,0 +1,10 @@
+Thumbs.db
+.Ds_Store
+.sass-cache/
+node_modules/
+log/
+maps/
+_maps/
+dist/
+gulpfile.js.bak
+package.json.bak
